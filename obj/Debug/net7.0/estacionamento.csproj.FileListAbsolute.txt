@@ -1,0 +1,14 @@
+D:\projetos c#\teste_dio\estacionamentodio\bin\Debug\net7.0\estacionamento.exe
+D:\projetos c#\teste_dio\estacionamentodio\bin\Debug\net7.0\estacionamento.deps.json
+D:\projetos c#\teste_dio\estacionamentodio\bin\Debug\net7.0\estacionamento.runtimeconfig.json
+D:\projetos c#\teste_dio\estacionamentodio\bin\Debug\net7.0\estacionamento.dll
+D:\projetos c#\teste_dio\estacionamentodio\bin\Debug\net7.0\estacionamento.pdb
+D:\projetos c#\teste_dio\estacionamentodio\obj\Debug\net7.0\estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos c#\teste_dio\estacionamentodio\obj\Debug\net7.0\estacionamento.AssemblyInfoInputs.cache
+D:\projetos c#\teste_dio\estacionamentodio\obj\Debug\net7.0\estacionamento.AssemblyInfo.cs
+D:\projetos c#\teste_dio\estacionamentodio\obj\Debug\net7.0\estacionamento.csproj.CoreCompileInputs.cache
+D:\projetos c#\teste_dio\estacionamentodio\obj\Debug\net7.0\estacionamento.dll
+D:\projetos c#\teste_dio\estacionamentodio\obj\Debug\net7.0\refint\estacionamento.dll
+D:\projetos c#\teste_dio\estacionamentodio\obj\Debug\net7.0\estacionamento.pdb
+D:\projetos c#\teste_dio\estacionamentodio\obj\Debug\net7.0\estacionamento.genruntimeconfig.cache
+D:\projetos c#\teste_dio\estacionamentodio\obj\Debug\net7.0\ref\estacionamento.dll

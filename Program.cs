@@ -1,4 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿
+//Apresentação do sistema
 Console.WriteLine("Sistema de estacionamento Everton Lima 2024");
 Console.WriteLine("");
 Console.WriteLine("");
@@ -9,9 +10,14 @@ Console.WriteLine("");
 Console.WriteLine("");
 Console.WriteLine("Agora digite o preço por hora: ");
 decimal precoHora = Convert.ToDecimal(Console.ReadLine());
+//Fim da apresentação
+
 string placa;
 int opcao = 0;
+//aqui vou usar esse array para armazear os carros estacionados
 List<Estacionamento> veiculoEscacionado = new List<Estacionamento>();
+
+//validar placa valida
 bool validarPlaca()
 {
     int l = 0;
@@ -53,6 +59,11 @@ bool validarPlaca()
     Console.Clear();
     return false;
 }
+/// <summary>
+/// Esse Metodo vai informar o que o usuário digitou
+/// caso o usuário informe uma vazia nula vai ser alertado para 
+/// o usuario um modelo de exemplo e esse metodo ChecaPaca chama o validar placa
+/// </summary>
 bool ChecarPlaca()
 {
     if (placa == string.Empty)
@@ -82,8 +93,8 @@ bool ChecarPlaca()
 
 
 }
-///<sumary>
-///</sumary
+
+//metodo de menu do sistema para crud de veiculos
 void menu()
 {
     if (opcao == 0)
@@ -115,10 +126,9 @@ void menu()
 
 }
 
-//opcao = Convert.ToInt32(Console.ReadLine().ToString());
+
 while (opcao < 4)
 {
-    //Console.WriteLine(opcao);
     menu();
     switch (opcao)
     {
